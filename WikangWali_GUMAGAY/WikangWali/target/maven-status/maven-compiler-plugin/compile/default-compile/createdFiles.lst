@@ -1,0 +1,17 @@
+com\csit321WW\WikangWali\Service\CourseService.class
+com\csit321WW\WikangWali\Controller\UserStudentController.class
+com\csit321WW\WikangWali\Controller\CourseController.class
+com\csit321WW\WikangWali\Repository\CourseRepository.class
+com\csit321WW\WikangWali\WikangWaliApplication.class
+com\csit321WW\WikangWali\Entity\CourseEntity.class
+com\csit321WW\WikangWali\Repository\UserStudentRepository.class
+com\csit321WW\WikangWali\Service\ExerciseService.class
+com\csit321WW\WikangWali\Service\UserStudentService.class
+com\csit321WW\WikangWali\Entity\ExerciseEntity.class
+com\csit321WW\WikangWali\Controller\ExerciseController.class
+com\csit321WW\WikangWali\Entity\LessonEntity.class
+com\csit321WW\WikangWali\Repository\ExerciseRepository.class
+com\csit321WW\WikangWali\Controller\LessonController.class
+com\csit321WW\WikangWali\Repository\LessonRepository.class
+com\csit321WW\WikangWali\Entity\UserStudentEntity.class
+com\csit321WW\WikangWali\Service\LessonService.class
